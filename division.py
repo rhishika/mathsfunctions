@@ -1,0 +1,6 @@
+num1=input("enter the first no.")
+print(num1)
+num2=input("enter the second no.")
+print(num2)
+div=int(num1) / int(num2)
+print('The addition of {0} / {1} = {2}'. format(num1, num2, div))
